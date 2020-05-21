@@ -13,4 +13,4 @@ async def on_group_join(channel, user):
 		print(channel)
 		print(user)
 
-client.run('NzExNTUyOTc0OTQxNTg1NDY4.XsErjQ.9wWTuQVqSLAYHYzRarzTDhLykkI')
+client.run('')
